@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kim%20JinSeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Kim%20JinSeong&fontSize=50)
 <!--
 **KimJinSe0ng/KimJinSe0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = center>
+  <br>
+  --- 
 
+  ## Skills 📚
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
