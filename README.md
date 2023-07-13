@@ -1,11 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Kim%20JinSeong&fontSize=50)
-<!--
-**KimJinSe0ng/KimJinSe0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div align = center>
+  
   <br>
-  --- 
 
   ## Skills 📚
+
+  ### Language :  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  ### Backend :  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  
+  ### DB :  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  ### Frontend :  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
