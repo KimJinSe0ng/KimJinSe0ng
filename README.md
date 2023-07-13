@@ -7,7 +7,7 @@
   🏫 중앙대학교 소프트웨어학부
   <br><br>
   🌱 I'm studying now  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badgee&logo=springboot&logoColor=white">
-  <br>
+  <br><br>
   ## Skills 📚
   
 
@@ -16,7 +16,7 @@
   ### DB :  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   ### Frontend :  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   ### Etc :  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-
+  
   ##
   <br>
   
