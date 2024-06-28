@@ -1,21 +1,22 @@
 <div align = center>
 
-  ## KimJinSeong
+## 👀 About Me 👀
+| **Period** | **Organization** | **Department / Role** | Link |
+| --- | --- | --- | --- |
+| 2022.03 ~ 2024.08 | 중앙대학교 | 소프트웨어학부 |
+| 2023.03 ~ 2024.03 | 중앙대학교 DevLabs | 동아리 회장 | 
+| 2023.07 ~ 2023.08 | 중앙대학교 인공지능 보안 및 암호 연구실 | 학부연구생 | 
+| 2023.09 ~ 2023.12 | 에이아이티스토리 Internship | 백엔드 |
+| 2023.11 ~ 2023.12 | 우아한테크코스 웹 BE 6기 프리코스 | 백엔드 |
+| 2024.07 ~ | 카카오테크 부트캠프 | 클라우드 과정 |
 
-  💻 Backend Developer
-  <br><br>
-  🏫 중앙대학교 소프트웨어학부
-  <br><br>
-  🌱 I'm studying now  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badgee&logo=springboot&logoColor=white">
-  <br><br>
-  ## Skills 📚
-  
-
-  ### Language :  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/dart-00599C?style=for-the-badge&logo=dart&logoColor=#0175C2">
-  ### Backend :  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  
-  ### DB :  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  ### Frontend :  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  ### Etc :  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+## 📚 Skills 📚
+|**Languages**| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">|
+| :-----------: | :-------------: |
+|**Front-End**|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">|
+|**Back-End**|<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">|
+|**Database**|<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> |
+|**Etc**|<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>|
   
   ##
   <br>
@@ -23,16 +24,3 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=KimJinSe0ng&theme=shadow_green&show_icons=true">  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KimJinSe0ng&layout=compact&theme=shadow_green">
 </div>
   
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
