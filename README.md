@@ -8,14 +8,13 @@
 | 2023.07 ~ 2023.08 | 중앙대학교 인공지능 보안 및 암호 연구실 | 학부연구생 | 
 | 2023.09 ~ 2023.12 | 에이아이티스토리 Internship | 백엔드 |
 | 2023.11 ~ 2023.12 | 우아한테크코스 웹 BE 6기 프리코스 | 백엔드 |
-| 2024.07 ~ | 카카오테크 부트캠프 | 클라우드 과정 |
 
 ---
 
 ## 📚 Skills 📚
 |**Languages**| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">|
 | :-----------: | :-------------: |
-|**Front-End**|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">|
+|**Front-End**| <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">|
 |**Back-End**|<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">|
 |**Database**|<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> |
 |**DB Tool**| <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white"> <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white"> |
